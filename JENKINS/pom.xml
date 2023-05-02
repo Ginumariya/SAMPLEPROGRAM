@@ -21,7 +21,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>(default package).jenkins</mainClass>
+							<mainClass>jenkinsSample.jenkins</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
