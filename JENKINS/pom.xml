@@ -22,7 +22,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>jenkinssample.Jenkins</mainClass>
+							<mainClass>jenkinssample.Samplepgm</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
